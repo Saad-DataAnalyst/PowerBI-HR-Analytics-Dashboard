@@ -1,0 +1,6 @@
+DepartmentID,DepartmentName,CostCenter
+1,Sales,CC01
+2,HR,CC02
+3,Finance,CC03
+4,IT,CC04
+5,Operations,CC05
